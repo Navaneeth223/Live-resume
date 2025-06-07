@@ -20,7 +20,7 @@
 
 | Main Resume View | Recruiter Mode | Dark Mode |
 |------------------|----------------|-----------|
-| ![Main](assets/screens/main.png) | ![Recruiter](assets/screens/recruiter.png) | ![Dark](assets/screens/dark.png) |
+| ![Main](screens/main.png) | ![Recruiter](screens/recruiter.png) | ![Dark](screens/dark.png) |
 
 ---
 
