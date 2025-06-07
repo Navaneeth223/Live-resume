@@ -56,7 +56,7 @@ LiveResume/
    cd LiveResume
    ```
 
-###🙋‍♂️ About the Creator
+### 🙋‍♂️ About the Creator
 - 🙋‍♂️ Navaneeth KV
 - 🌍 Taliparamba, Kannur, India
 - 💼 Web & Game Developer
