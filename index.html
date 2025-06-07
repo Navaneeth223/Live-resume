@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LiveResume — Navaneeth KV</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <!-- MODE SWITCHER -->
+  <div class="top-bar">
+    <h1>LiveResume</h1>
+    <div class="toggles">
+      <button id="modeToggle">🌗 Light/Dark</button>
+      <button id="recruiterToggle">🎯 Recruiter Mode</button>
+    </div>
+  </div>
+
+  <!-- MAIN CARD -->
+  <div class="resume-card">
+    <img src="assets/profile.png" alt="Profile Picture" class="profile-pic" />
+    <h2>Navaneeth KV</h2>
+    <p>Web Developer | Flutter Dev | Game Designer</p>
+
+    <div class="animated-section">
+      <h3>Skills</h3>
+      <ul id="skillsList">
+        <li class="hover-info">HTML5</li>
+        <li class="hover-info">CSS3</li>
+        <li class="hover-info">JavaScript</li>
+        <li class="hover-info recruiter">React</li>
+        <li class="hover-info recruiter">Node.js</li>
+        <li class="hover-info">Three.js</li>
+      </ul>
+    </div>
+
+    <!-- CHAT SIMULATOR -->
+    <div class="chatbox">
+      <p><strong>AI Recruiter:</strong> Tell me about your best project.</p>
+      <p class="response"><strong>Navaneeth:</strong> One of my best projects is “One Touch”, a Flutter app that...</p>
+    </div>
+
+    <!-- DOWNLOAD -->
+    <a href="assets/resume.pdf" download class="download-btn">⬇️ Download Resume</a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
